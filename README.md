@@ -3,4 +3,4 @@
 The program started with python where i paracticed a lot of basic Skills in python
 ## Week 1 
 i. (image alt)(https://raw.githubusercontent.com/miracleeric95/Akatsi_Datascience/25efa26b20fb381ad606c650ae707c1cbdb1fb60/1.Variable_Assignment.png)
-
+ii. (image alt)(https://raw.githubusercontent.com/miracleeric95/Akatsi_Datascience/44365f8a4f29d4cd350a41b654cc77fa5683ef3a/1_2_Strings.png)
