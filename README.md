@@ -11,6 +11,8 @@ The program started with python where i paracticed a lot of basic Skills in pyth
 ## Week 2: Tuples, Operators,Floor Division,Bitwise Operators
 2.1. <img width="1918" height="1052" alt="image" src="https://github.com/user-attachments/assets/25f360c2-de90-4431-b32d-0295d3a84426" />
 2.2. <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/53b56784-88db-4582-ae7e-b5915d776b84" />
+2.3. <img width="1918" height="1023" alt="image" src="https://github.com/user-attachments/assets/bb6ecafb-452d-4cc6-88fb-b1295f593ef1" />
+
 
 
 
