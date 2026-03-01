@@ -16,6 +16,8 @@ The program started with python where i paracticed a lot of basic Skills in pyth
 
 ## Week 3: String Formatting, if, if else, elif
 3.1. <img width="1886" height="981" alt="image" src="https://github.com/user-attachments/assets/696cddae-9f5a-4fa0-b77a-0e6b3bec072a" />
+3.2. <img width="1916" height="590" alt="image" src="https://github.com/user-attachments/assets/8024be3e-7636-444d-a6a6-b2dfdc8a738c" />
+
 
 
 
