@@ -15,6 +15,7 @@ The program started with python where i paracticed a lot of basic Skills in pyth
 2.4. <img width="1915" height="1077" alt="image" src="https://github.com/user-attachments/assets/768729bc-1c30-4a64-a518-baabae2baf2b" />
 
 ## Week 3: String Formatting, if, if else, elif
+3.1. <img width="1886" height="981" alt="image" src="https://github.com/user-attachments/assets/696cddae-9f5a-4fa0-b77a-0e6b3bec072a" />
 
 
 
