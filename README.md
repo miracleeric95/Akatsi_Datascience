@@ -18,7 +18,7 @@ The program started with python where i practiced a lot of basic Skills in pytho
 3.1. <img width="1886" height="981" alt="image" src="https://github.com/user-attachments/assets/696cddae-9f5a-4fa0-b77a-0e6b3bec072a" />
 3.2. <img width="1916" height="590" alt="image" src="https://github.com/user-attachments/assets/8024be3e-7636-444d-a6a6-b2dfdc8a738c" />
 3.3. <img width="1902" height="571" alt="image" src="https://github.com/user-attachments/assets/7d7df662-5e7a-4081-b5d9-07515bf6555c" />
-
+## Due to the magtitude of work done. I am unable to share screen shots of all the work. Refer to pyrocyber_D_Science python file for more details
 
 
 
